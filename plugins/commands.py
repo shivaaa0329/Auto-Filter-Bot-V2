@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @trojanzhex
+# @hollywood_dubbed_movies4u
 
 
 from pyrogram import Client, filters
@@ -22,7 +22,7 @@ async def start(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/TroJanzHEX")
+                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/hollywood_dubbed_movies4u")
                     ]
                 ]
             ),
@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ SUPPORT ⭕️", url="https://t.me/TroJanzSupport")
+                            "⭕️ SUPPORT ⭕️", url="https://t.me/request_Cinema")
                     ]
                 ]
             ),
