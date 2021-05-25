@@ -3,13 +3,11 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+You can call me as an file finder Bot made by <i>RAMBO</i>
 
-This is Version 2 of Auto Filter Bot
+This is use to find the fles in our channel
 
-Bot gives button link to files in connected channels on query !
-
-No need to add filters for your files or movies from now on!
+Bot gives button link to files in our channels on your query !
 
 For more click <i>help</i></b>"""
 
@@ -53,12 +51,12 @@ No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
 
-<b>© @TroJanzHEX</b>"""
+<b>© @hollywood_dubbed_movies4u</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
+    ABOUT_MSG = """⭕️<b>My Name : file finder bot</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @shivaaa029
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
